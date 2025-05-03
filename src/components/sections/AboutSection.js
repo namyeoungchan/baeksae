@@ -12,7 +12,7 @@ const AboutSection = ({ translations, lang }) => {
             <div className="grid md:grid-cols-3 gap-8 items-center">
               <div className="md:col-span-1">
                 <img 
-                  src="/certificates/ceo.png"
+                  src={`${process.env.PUBLIC_URL}/certificates/ceo.png`}
                   alt={t.about.position}
                   className="rounded-full w-48 h-48 mx-auto object-cover border-4 border-green-100"
                 />
@@ -39,7 +39,7 @@ const AboutSection = ({ translations, lang }) => {
                 <div key={index} className="bg-green-50 p-6 rounded-lg">
                   <div className="mb-4 relative group">
                     <img 
-                      src={`/certificates/certification_${index + 1}.png`}
+                      src={`${process.env.PUBLIC_URL}/certificates/certification_${index + 1}.png`}
                       alt={patent.title}
                       className="w-full h-auto rounded-lg shadow-md"
                       onError={(e) => {
@@ -49,7 +49,7 @@ const AboutSection = ({ translations, lang }) => {
                     />
                     <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-30 transition-all duration-300 rounded-lg flex items-center justify-center">
                       <a 
-                        href={`/certificates/certification_${index + 1}.pdf`}
+                        href={`${process.env.PUBLIC_URL}/certificates/certification_${index + 1}.pdf`}
                         target="_blank" 
                         rel="noopener noreferrer" 
                         className="opacity-0 group-hover:opacity-100 bg-green-600 text-white px-4 py-2 rounded-lg font-semibold transition-all duration-300 transform translate-y-2 group-hover:translate-y-0"

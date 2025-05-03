@@ -100,7 +100,7 @@ export const en = {
     items: [
       {
         title: 'Garlic Cultivation Facility',
-        description: 'Dedicated garlic cultivation facility equipped with state-of-the-art temperature and humidity control systems. Optimizing soil microbe balance to produce garlic rich in antioxidants.'
+        description: 'Optimizing soil microbe balance to produce garlic rich in antioxidants.'
       },
       {
         title: 'Red Pepper Cultivation Facility',
@@ -108,7 +108,7 @@ export const en = {
       },
       {
         title: 'Chinese Cabbage Cultivation Facility',
-        description: 'Dedicated Chinese cabbage facility with eco-friendly hydroponic systems. Producing cabbage optimized for kimchi manufacturing in a clean environment.'
+        description: 'Producing cabbage optimized for kimchi manufacturing in a clean environment.'
       }
     ]
   },

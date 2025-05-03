@@ -13,7 +13,7 @@ const FacilitySection = ({ translations, lang }) => {
             <div key={index} className="bg-white rounded-lg shadow-lg overflow-hidden">
               <div className="relative h-64">
                 <img 
-                  src={`/facility/facility_${index + 1}.${index === 1 ? 'png' : 'jpg'}`}
+                  src={`${process.env.PUBLIC_URL}/facility/facility_${index + 1}.${index === 1 ? 'png' : 'jpg'}`}
                   alt={item.title}
                   className="w-full h-full object-cover"
                   onError={(e) => {
