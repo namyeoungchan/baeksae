@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/baeksae/static/css/main.f19c3d70.css",
-    "main.js": "/baeksae/static/js/main.e53a86aa.js",
+    "main.css": "/baeksae/static/css/main.a2c787be.css",
+    "main.js": "/baeksae/static/js/main.9fbf87eb.js",
     "index.html": "/baeksae/index.html",
-    "main.f19c3d70.css.map": "/baeksae/static/css/main.f19c3d70.css.map",
-    "main.e53a86aa.js.map": "/baeksae/static/js/main.e53a86aa.js.map"
+    "main.a2c787be.css.map": "/baeksae/static/css/main.a2c787be.css.map",
+    "main.9fbf87eb.js.map": "/baeksae/static/js/main.9fbf87eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.f19c3d70.css",
-    "static/js/main.e53a86aa.js"
+    "static/css/main.a2c787be.css",
+    "static/js/main.9fbf87eb.js"
   ]
 }
