@@ -19,7 +19,7 @@ const ContactSection = ({ translations, lang }) => {
             <div className="text-center">
               <Mail className="h-8 w-8 mx-auto mb-4 text-green-400" />
               <h3 className="text-xl font-bold mb-2">{t.contact.email}</h3>
-              <p className="text-gray-300">info@baekse-farm.com</p>
+              <p className="text-gray-300">bs@baekse-farm.com</p>
               <p className="text-gray-300">{t.contact.available24}</p>
             </div>
             <div className="text-center">

@@ -8,7 +8,7 @@ export const en = {
     contact: 'Contact'
   },
   hero: {
-    title: 'Antioxidant Farming for a Healthy Future',
+    title: 'Antioxidant Enhancement Farming for Healthy Longevity',
     subtitle: 'Combining Traditional Fermented Foods with Advanced Antioxidant Farming',
     cta: 'View Products'
   },
@@ -16,20 +16,19 @@ export const en = {
     title: 'About CEO',
     position: 'CEO',
     profileItems: [
-      'CEO of Baekse Agriculture (2023~Present)',
-      'Director of K-Smart Organic Agriculture Innovation Complex Project',
+      'CEO of Baekse Agriculture (2024~Present)',
       'Ph.D. in Horticulture, Chungbuk National University (1999.3~2004.2)',
-      'Former Researcher, Vegetable Division, National Institute of Horticultural and Herbal Science (2009.9.16~Present)',
+      'Former Researcher, Vegetable Division, National Institute of Horticultural and Herbal Science (2009.9.16~2024.11.27)',
       'Former Researcher, Highland Agriculture Research Institute (1992.1.1~2009.9.15)',
-      'Former Agricultural Extension Specialist, Goesan, Chungbuk Agricultural Technology Institute (1987.6.5~1991.12.31)',
+      'Former Agricultural Extension Specialist, Jecheon Agricultural Technology Center, Chungbuk Agricultural Technology Institute',
       'Education: M.S. in Horticulture (1996.3~1997.2), B.S. in Horticulture (1983.3~1987.2)', 
       'Certifications: Plant Protection Engineer (1992.5.21), Organic Farming Technician-Vegetables (2008.3.19), Greenhouse Horticulture Technician (1990.5.17)',
       'Award: Model Public Official Award by Minister of the Interior and Safety (2004.6.28)',
-      'Publications: 21 DBpia Academic Papers (2019-2021), 15 Research Development Papers',
+      'Academic Publications: 166 Papers',
       'Patents: 11 Patents related to red pepper and broccoli cultivation',
       'Resident Company at Chungbuk National University Industry-Academic Cooperation Foundation'
     ],
-    quote: 'We are pioneering the future of agriculture and public health by cultivating healthier and safer agricultural products through antioxidant farming methods.',
+    quote: 'We are pioneering the future of global agriculture and public health for longevity by cultivating healthier and safer agricultural products through antioxidant enhancement farming methods.',
     patents: {
       title: 'Industrial Property Rights and Research Achievements',
       items: [
@@ -44,7 +43,7 @@ export const en = {
           period: 'Technology Transfer: KOAT (2017.12.5)'
         },
         {
-          title: 'Liquid Fertilizer Composition for Tomato Disease Control and Functionality Enhancement',
+          title: 'Tomato Antioxidant Liquid Fertilizer Composition and Manufacturing Method',
           description: 'Patent No. 10-2175140, 10-2242581',
           period: 'Implementation Period: 2021.10.01 ~ 2025.03.31'
         }
@@ -68,13 +67,13 @@ export const en = {
         description: 'Premium red peppers grown with patented antioxidant liquid fertilizer. Achieving both increased yield and maximized antioxidant content.'
       },
       {
-        title: 'Antioxidant Broccoli',
+        title: 'Antioxidant Broccoli, Antioxidant Soybeans, etc.',
         description: 'Premium broccoli grown with patented liquid fertilizer composition. Maximized antioxidant content for superior nutritional value.'
       }
     ]
   },
   antioxidant: {
-    title: 'Benefits of Antioxidant Farming',
+    title: 'Benefits of Antioxidant Enhancement Farming',
     benefits: [
       {
         title: 'Enhanced Nutrition',
@@ -100,15 +99,15 @@ export const en = {
     items: [
       {
         title: 'Garlic Cultivation Facility',
-        description: 'Optimizing soil microbe balance to produce garlic rich in antioxidants.'
+        description: 'Safe garlic production facility with 2.5x enhanced antioxidant content using organic, antioxidant-specific fertilizer.'
       },
       {
         title: 'Red Pepper Cultivation Facility',
-        description: 'Red pepper cultivation facility with our patented automatic liquid fertilizer supply system. Precisely controlling sunlight and nutrients to maintain optimal quality.'
+        description: 'Safe red pepper production facility with 2x enhanced antioxidant content using organic, antioxidant-specific fertilizer.'
       },
       {
         title: 'Chinese Cabbage Cultivation Facility',
-        description: 'Producing cabbage optimized for kimchi manufacturing in a clean environment.'
+        description: 'Safe Chinese cabbage production facility with 2x enhanced antioxidant content using organic, antioxidant-specific fertilizer.'
       }
     ]
   },
