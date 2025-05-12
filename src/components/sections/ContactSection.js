@@ -13,7 +13,7 @@ const ContactSection = ({ translations, lang }) => {
             <div className="text-center">
               <Phone className="h-8 w-8 mx-auto mb-4 text-green-400" />
               <h3 className="text-xl font-bold mb-2">{t.contact.phone}</h3>
-              <p className="text-gray-300">043-261-2858</p>
+              <p className="text-gray-300">010-4291-3615</p>
               <p className="text-gray-300">{t.contact.hours}</p>
             </div>
             <div className="text-center">

@@ -91,7 +91,7 @@ const OrderModal = ({ isOpen, onClose, translations, lang }) => {
               <Phone className="h-6 w-6 text-green-600" />
               <div>
                 <p className="font-semibold text-gray-900">{t.contact.phone}</p>
-                <p className="text-gray-600">043-261-2858</p>
+                <p className="text-gray-600">010-4291-3615</p>
               </div>
             </div>
             
@@ -141,7 +141,7 @@ const OrderModal = ({ isOpen, onClose, translations, lang }) => {
           {/* 하단 버튼 */}
           <div className="mt-6 flex gap-3">
             <a
-              href="tel:043-261-2858"
+              href="tel:010-4291-3615"
               className="flex-1 bg-green-600 text-white py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors text-center"
             >
               {lang === 'ko' ? '전화 연결' : lang === 'en' ? 'Call Now' : '立即通话'}
